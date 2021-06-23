@@ -5,4 +5,4 @@ World Car Free Day 2020 Car Free Day is an annual global movement that encourage
 • Why a car free day will be ideal for your area and the impact on pollution. <br/>
 • What benefits of a car free day would there be? including health and climate change statistics.<br/>
 • Would a one car free day have an impact on pollution?<br/>
-We used different statistical tools from the SAS software for the implementation.<br/>
+We used different statistical tools from the SAS software for the implementation and based the conclusions on inferences from the data.<br/>
